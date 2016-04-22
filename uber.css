@@ -1,0 +1,16 @@
+.navbar-default {
+    background-color: #AEBF1F
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.row img {
+    margin: auto;
+    width: 100%;
+}
